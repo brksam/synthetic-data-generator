@@ -1,0 +1,5 @@
+{
+    "database_url": "mysql+pymysql://root:@localhost/testdb",
+    "table": "clientes", 
+    "samples": 500
+}
